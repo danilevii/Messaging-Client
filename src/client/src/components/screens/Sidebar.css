@@ -1,0 +1,21 @@
+.sidebar {
+    display: flex;
+    width: 40%;
+    flex-direction: column;
+    justify-content: space-between;
+    border-right: 1.5px solid #FDE4CF;
+    height: 100%;
+    text-align: center;
+    margin: 0;
+    overflow: scroll;
+}
+
+h1 {
+    padding: 5%;
+    border-bottom: 2px solid #ccc;
+}
+
+.chats__info{
+    padding: 15px;
+    border: 1px solid #ccc;
+}
